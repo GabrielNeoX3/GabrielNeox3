@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Gabriel NeoX3 😁
+## Olá! Bem-vindo(a) ao perfil do Gabriel NeoX3 😁
 
  <div>
    <a href="https://github.com/GabrielNeox3">
