@@ -18,7 +18,7 @@
 
  <br>
  
-  ### Pra conteúdo sobre programação me segue nas redes abaixo!
+  ### Para networking sobre programação, me siga nas redes abaixo!
  
 <div> 
   <a href="https://www.youtube.com/saladax3" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
